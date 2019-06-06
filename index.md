@@ -2,7 +2,9 @@
 
 Tout d'abord, merci d'avoir pris le temps de regarder cette page.
 
-### Presentation
+### Qui suis-je?
+
+## Presentation
 
 Je m'appelle Thomas Vannier.
 
@@ -10,7 +12,7 @@ J'ai 17 ans, j'aurais 18 ans en janvier 2020.
 
 Je suis inscrit à la Mission locale de Tours Nord.
 
-### Parcours, études, diplômes et expériences professionnelles
+## Parcours, études, diplômes et expériences professionnelles
 
 Je suis allé au collège Montaigne, où j'ai obtenu mon brevet des collèges.
 
