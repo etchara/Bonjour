@@ -4,7 +4,7 @@ Tout d'abord, merci d'avoir pris le temps de regarder cette page.
 
 # Qui suis-je?
 
-## Presentation
+## Présentation
 
 Je m'appelle **Thomas Vannier**.
 
@@ -18,7 +18,7 @@ Je suis allé au collège Montaigne, où j'ai obtenu mon **brevet des collèges*
 
 Ensuite, je suis allé au lycée Vaucanson en seconde générale.
 
-J'ai changé pour aller au lycée Gustave Eiffel en première pro MEI, que j'ai quitté en décembre 2018.
+J'ai choisi d'aller au lycée Gustave Eiffel en première pro MEI, que j'ai quitté en décembre 2018.
 
 Pour ne pas perdre mon temps, j'ai commencé **le Code de la route**.
 
@@ -53,15 +53,15 @@ En même temps, je suis en formation pour passer le **BAFA**.
 
 Le rap francais,
 
-la pop culture,
+la pop culture.
 
-# Mes sites préférès
+# Mes sites préférés
 
-**Youtube.com** pour ce divertir quand je ne sais pas quoi faire
+**Youtube.com** pour me divertir quand je ne sais pas quoi faire
 
-**Spotift** pour ecouter de la musique en fond, quoi que je fasse
+**Spotift** pour écouter de la musique en fond, quoi que je fasse
 
-**Ianimes.co** pour avoir accès au animes que je veux
+**Ianimes.co** pour avoir accès aux animés que je veux
 
 # Les réseaux sociaux
 
