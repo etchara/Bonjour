@@ -31,11 +31,15 @@ En même temps, je suis en formation pour passer le **BAFA**.
 
 ### Mes centres d'intérêts sont principalement :
 
+
+
 **Les jeux-vidéos**
 
 [ https://image.noelshack.com/fichiers/2019/23/4/1559832694-1556810446-9100-card.jpg ]
 
 [ https://image.noelshack.com/fichiers/2019/23/4/1559832155-htr.png ]
+
+
 
 **Les animés**
 
@@ -43,8 +47,12 @@ En même temps, je suis en formation pour passer le **BAFA**.
 
 [ https://image.noelshack.com/fichiers/2019/23/4/1559832694-1556810446-9100-card.jpg ]
 
+
+
 **La musique**
 
+Le rap francais,
+la pop culture,
 
 # Mes sites préférès
 
