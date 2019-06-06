@@ -2,9 +2,18 @@
 
 Tous d'abord, merci d'avoir pris le temps de regarder cette page.
 
-### Markdown
+### Presentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Je m'appelle Thomas Vannier.
+j'ai 17 ans, j'aurais 18 ans en janvier.
+je suis inscrit a la Mission local de Tours Nord
+
+### Parcours
+
+Je suis allé au collège Montaigne, où j'ai obtenu mon brevet des collèges.
+Ensuite, je suis allé au lycée Vaucanson où je suis rester 1 année car la filliere general ne me plaisait pas.
+J'ai donc changer, pour aller au lycée Gustave Eiffel, que j'ai quitter en decembre 2018.
+
 
 ```markdown
 Syntax highlighted code block
