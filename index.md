@@ -8,7 +8,7 @@ Je m'appelle Thomas Vannier.
 
 j'ai 17 ans, j'aurais 18 ans en janvier 2019.
 
-je suis inscrit a la Mission local de Tours Nord
+je suis inscrit a la Mission locale de Tours Nord
 
 ### Parcours et etudes
 
