@@ -8,23 +8,23 @@ Tout d'abord, merci d'avoir pris le temps de regarder cette page.
 
 Je m'appelle **Thomas Vannier**.
 
-J'ai 17 ans, j'aurais 18 ans en janvier 2020.
+J'ai **17 ans**, j'aurais 18 ans en janvier 2020.
 
-Je suis inscrit à la Mission locale de Tours Nord.
+Je suis inscrit à **la Mission locale de Tours Nord**.
 
 ## Parcours, études, diplômes et expériences professionnelles
 
-Je suis allé au collège Montaigne, où j'ai obtenu mon brevet des collèges.
+Je suis allé au collège Montaigne, où j'ai obtenu mon **brevet des collèges**.
 
 Ensuite, je suis allé au lycée Vaucanson en seconde générale.
 
 J'ai changé pour aller au lycée Gustave Eiffel en première pro MEI, que j'ai quitté en décembre 2018.
 
-Pour ne pas perdre mon temps, j'ai commencé le Code de la route.
+Pour ne pas perdre mon temps, j'ai commencé **le Code de la route**.
 
 J'ai également fais des stages en découverte d'entreprise à la piscine Bozon de Tours et à l'acceuil périscolaire de l'école de Monnaie.
 
-En même temps, je suis en formation pour passer le BAFA.
+En même temps, je suis en formation pour passer le **BAFA**.
 ```markdown
 Syntax highlighted code block
 
