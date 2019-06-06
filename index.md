@@ -6,11 +6,11 @@ Tous d'abord, merci d'avoir pris le temps de regarder cette page.
 
 Je m'appelle Thomas Vannier.
 
-j'ai 17 ans, j'aurais 18 ans en janvier.
+j'ai 17 ans, j'aurais 18 ans en janvier 2019.
 
 je suis inscrit a la Mission local de Tours Nord
 
-### Parcours
+### Parcours et etudes
 
 Je suis allé au collège Montaigne, où j'ai obtenu mon brevet des collèges.
 
@@ -18,7 +18,7 @@ Ensuite, je suis allé au lycée Vaucanson où je suis rester 1 année car la fi
 
 J'ai donc changer, pour aller au lycée Gustave Eiffel, que j'ai quitter en decembre 2018.
 
-
+Pour ne pas perdre mon temps, j'ai commencer le Code
 ```markdown
 Syntax highlighted code block
 
