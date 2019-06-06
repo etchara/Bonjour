@@ -10,13 +10,13 @@ J'ai 17 ans, j'aurais 18 ans en janvier 2020.
 
 Je suis inscrit à la Mission locale de Tours Nord.
 
-### Parcours et études
+### Parcours, études, diplômes et expériences professionnelles
 
 Je suis allé au collège Montaigne, où j'ai obtenu mon brevet des collèges.
 
-Ensuite, je suis allé au lycée Vaucanson en seconde générale, j'y suis resté une année car la filière générale ne me plaisait pas.
+Ensuite, je suis allé au lycée Vaucanson en seconde générale.
 
-J'ai donc changé pour aller au lycée Gustave Eiffel en première pro MEI, que j'ai quitté en décembre 2018 car en stage j'ai vu que le côté manuel ne me plaisait pas.
+J'ai changé pour aller au lycée Gustave Eiffel en première pro MEI, que j'ai quitté en décembre 2018.
 
 Pour ne pas perdre mon temps, j'ai commencé le Code de la route.
 
