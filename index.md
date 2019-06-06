@@ -39,13 +39,28 @@ En même temps, je suis en formation pour passer le **BAFA**.
 
 **Les animés**
 
-
 [https://image.noelshack.com/fichiers/2019/23/4/1559831935-wp1853121.jpg]
-
-
 
 [https://image.noelshack.com/fichiers/2019/23/4/1559832694-1556810446-9100-card.jpg]
 
+**La musique**
+
+
+# Mes sites préférès
+
+**Youtube.com** pour ce divertir quand je ne sais pas quoi faire
+
+**Spotift** pour ecouter de la musique en fond, quoi que je fasse
+
+**Ianimes.co** pour avoir accès au animes que je veux
+
+# Les réseaux sociaux
+
+J'utilise :
+
+**Discord** `Etchara#3810`
+
+**Instagram** `Etchidi`
 
 
 ```markdown
