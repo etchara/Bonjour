@@ -2,7 +2,7 @@
 
 Tout d'abord, merci d'avoir pris le temps de regarder cette page.
 
-### Qui suis-je?
+# Qui suis-je?
 
 ## Presentation
 
