@@ -29,14 +29,22 @@ En même temps, je suis en formation pour passer le **BAFA**.
 
 # Mes centres d'intérêts
 
+### Mes centres d'intérêts sont principalement :
+
+**Les jeux-vidéos**
+
+[https://image.noelshack.com/fichiers/2019/23/4/1559832155-htr.png]
+
+[https://image.noelshack.com/fichiers/2019/23/4/1559832475-hearthstone-screenshot-04-19-19-18-32-07.png]
+
+**Les animés**
+
+
+[https://image.noelshack.com/fichiers/2019/23/4/1559831935-wp1853121.jpg]
 
 
 
-
-
-
-
-
+[https://image.noelshack.com/fichiers/2019/23/4/1559832224-my-hero-ones-justice-montre-ses-modes-en-videos.jpg]
 
 
 
