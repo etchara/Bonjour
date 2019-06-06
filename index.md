@@ -6,7 +6,7 @@ Tout d'abord, merci d'avoir pris le temps de regarder cette page.
 
 ## Presentation
 
-Je m'appelle ###Thomas Vannier.
+Je m'appelle **Thomas Vannier**.
 
 J'ai 17 ans, j'aurais 18 ans en janvier 2020.
 
