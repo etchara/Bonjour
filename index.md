@@ -25,6 +25,21 @@ Pour ne pas perdre mon temps, j'ai commencé **le Code de la route**.
 J'ai également fais des stages en découverte d'entreprise à la piscine Bozon de Tours et à l'acceuil périscolaire de l'école de Monnaie.
 
 En même temps, je suis en formation pour passer le **BAFA**.
+
+
+# Mes centres d'intérêts
+
+
+
+
+
+
+
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
